@@ -11,6 +11,13 @@ namespace Practical
             Console.WriteLine("How are you today?");
             Console.ReadLine();
             Console.WriteLine("Im sorry to hear that hope your day gets better.");
+            Console.ReadLine();
+            Console.WriteLine("You can make it pal");
+
+
+
+
+
         }
     }
 }
