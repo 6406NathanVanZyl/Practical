@@ -17,7 +17,7 @@ namespace Practical
 
 
 
-
+            Console.WriteLine("hi");
         }
     }
 }
