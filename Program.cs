@@ -13,11 +13,15 @@ namespace Practical
             Console.WriteLine("Im sorry to hear that hope your day gets better.");
             Console.ReadLine();
             Console.WriteLine("You can make it pal");
-Console.WriteLine("Hi its Trish");
-//Comment
+            Console.WriteLine("Hi its Trish");
+            //Comment
 
 
             Console.WriteLine("hi");
+
+            //change code
+
+            Console.WriteLine("Alfred giving us instructions");
         }
     }
 }
